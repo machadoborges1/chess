@@ -7,6 +7,6 @@ public class Main {
     public static void main(String[] args) {
 
         ChessMatch chess = new ChessMatch();
-        UI.printBoard(chess.getPieces())
+        UI.printBoard(chess.getPieces());
     }
 }
